@@ -11,7 +11,9 @@ stuffs in shop,other branch trancactions.<br />
 You can see two files,"shopManager-UIonly" that only contains UI without database codes and "shopManager-complete" with database code connections.<br />
 The "help" is for UI documents(in persian).<br />
 The "code doc" is for both codes(in persian).<br />
-The important thing is i didnt add my own database here, you have to design your own database based on the database codes in "shopManager-complete".<br />
+```diff
+- The important thing is i didnt add my own database here, you have to design your own database based on the database codes in "shopManager-complete".
+```
 ![](1.JPG)
 ![](2.JPG)
 ![](3.JPG)
