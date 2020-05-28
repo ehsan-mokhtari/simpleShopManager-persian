@@ -1,4 +1,7 @@
 # simpleShopManager-persian
+```diff
++ Simple Shop Maneger SoftWare
+```
 Simple project for managing your shop stuffs, transactions and ...<br />
 A simple shop manager in Persian language in both "client" and "manager" mode!<br />
 The UI is made up with tkinter.<br />
@@ -9,3 +12,7 @@ You can see two files,"shopManager-UIonly" that only contains UI without databas
 The "help" is for UI documents(in persian).<br />
 The "code doc" is for both codes(in persian).<br />
 The important thing is i didnt add my own database here, you have to design your own database based on the database codes in "shopManager-complete".<br />
+![](1.JPG)
+![](2.JPG)
+![](3.JPG)
+![](4.JPG)
