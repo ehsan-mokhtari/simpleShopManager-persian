@@ -1,6 +1,6 @@
 # simpleShopManager-persian
 ```diff
-+ Simple Shop Maneger SoftWare
++ Simple Shop Maneger Application
 ```
 Simple project for managing your shop stuffs, transactions and ...<br />
 A simple shop manager in Persian language in both "client" and "manager" mode!<br />
